@@ -1,10 +1,8 @@
 # Houses
---------
 Implement a program to import student data into a database, and then produce class rosters.
 
 
 ### Specification
------------------
 In **import.py**, write a program that imports data from a CSV spreadsheet.
 - Our program should accept the name of a CSV file as a command-line argument.
   - If the incorrect number of command-line arguments are provided, our program should print an error and exit.
@@ -23,5 +21,4 @@ In **roster.py**, write a program that prints a list of students for a given hou
 
 
 ### Reference
--------------
 <a href="https://cs50.harvard.edu/x/2020/">CS50 - Harvard</a>
