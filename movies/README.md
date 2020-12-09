@@ -1,5 +1,4 @@
 # Movies
---------
 Write SQL queries to answer questions about a database of movies.
 
 The movies database is a SQLite database that stores data from IMDb about movies, the people who directed and starred in them, and their ratings.
@@ -8,7 +7,7 @@ Our challenge is to write SQL queries to answer a variety of different questions
 
 
 ### Specification
------------------
+
 In 1.sql, write a SQL query to list the titles of all movies released in 2008.
 In 2.sql, write a SQL query to determine the birth year of Emma Stone.
 In 3.sql, write a SQL query to list the titles of all movies with a release date on or after 2018, in alphabetical order.
@@ -25,5 +24,5 @@ In 13.sql, write a SQL query to list the names of all people who starred in a mo
 
 
 ### Reference
--------------
+
 <a href="https://cs50.harvard.edu/x/2020/">CS50 - Harvard</a>
